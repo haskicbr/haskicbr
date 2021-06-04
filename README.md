@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haskicbr&langs_count=8&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haskicbr&langs_count=8&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **haskicbr/haskicbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
