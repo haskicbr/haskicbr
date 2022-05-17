@@ -1,12 +1,9 @@
-```Иной раз в потоках своих мыслей и скорости своей печати можно перепутать ./ с /.```
 
-`
-Pet projects: `
+Pet projects: 
 
 https://dogegym.ru
 
 https://haskicbr.github.io/godot/dodge
-
 
 
 
