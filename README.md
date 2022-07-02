@@ -1,16 +1,4 @@
 
-Pet projects: 
-
-https://dogegym.ru
-
-https://haskicbr.github.io/space-normandy/
-
-https://haskicbr.github.io/godot/dodge
-
-https://app.moto.help/
-
-
-
 <!--
 **haskicbr/haskicbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
