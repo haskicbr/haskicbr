@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
   <a href="#">
-		<img src="https://github.com/jpntex/jpntex/raw/master/jpntex.svg" style="max-width: 100%;">
+		<img src="https://cdn.svgator.com/images/2023/03/animated-geometric-shapes-background.svg" style="max-width: 100%;">
   </a>
 </div>
